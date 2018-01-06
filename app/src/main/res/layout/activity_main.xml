@@ -16,7 +16,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Baris 1 Kolom 2" />
+            android:text="Baris 1 Kolom 2"
+            android:textColor="@color/colorAccent" />
 
     </TableRow>
 
@@ -25,7 +26,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Baris 2 Kolom 1" />
+            android:text="Baris 2 Kolom 1"
+            android:textColor="@color/colorAccent" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -44,7 +46,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Baris 3 Kolom 2" />
+            android:text="Baris 3 Kolom 2"
+            android:textColor="@color/colorAccent" />
 
         <TextView
             android:layout_width="wrap_content"
